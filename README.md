@@ -1,0 +1,1 @@
+This repository contains a PHP script demonstrating a common error: "PHP Notice: A non well formed numeric value encountered".  The script showcases how passing a non-numeric value into an arithmetic operation can lead to unexpected results and how to prevent it.  The solution demonstrates robust error handling and type checking to avoid this issue. 
